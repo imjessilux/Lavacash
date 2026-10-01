@@ -4,11 +4,11 @@ using UnityEngine.SceneManagement;
 public class demarrerjeux : MonoBehaviour
 {
 
-public string niveau1 = "niveau 1";
+  public string niveau1 = "Niveau 1";
 
-public void ChangeLaScene()
-{
+  public void ChangeLaScene()
+  {
        SceneManager.LoadScene(niveau1);
-}
+  }
 
 }

@@ -11,9 +11,9 @@ public class conditions : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if bool-objet1 = true {
-            NbrObjetTrouve++;
-        };
+        //if bool-objet1 = true {
+        //    NbrObjetTrouve++;
+       // };
           
         
     }
