@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/_/Scenes/Niveau 1.unity
     guid: 5de75db52970c4849a33d8b92a3b4c5c
   - enabled: 1
+    path: Assets/_/Scenes/game over TEMPS.unity
+    guid: 5dccfbc8ea15e174ca7741f8e6f363d0
+  - enabled: 1
     path: Assets/_/Scenes/Niveau 2.unity
     guid: d0b6a54f7ae6b8941a4757febea1e690
   - enabled: 1
