@@ -3,9 +3,9 @@ using UnityEngine;
 
 using UnityEngine.SceneManagement;
 
-public class gameover : MonoBehaviour
+public class gameoverL : MonoBehaviour
 {
-    public string gameOver2nd = "game over TEMPS"; // Nom exact ??
+    public string gameOver2nd = "Game Over LAVE"; // Nom exact ??
 
     public void ChangeLaScene()
     {
