@@ -13,6 +13,6 @@
 | Dark Wind Pulse | Ambiance | TanwerAman |  Pixabay Content License |  <a href="https://pixabay.com/sound-effects/horror-dark-wind-pulse-445021/" > https://pixabay.com/sound-effects/horror-dark-wind-pulse-445021/</a>  |
 | wind 1 | Ambiance | Worldmaxter (Freesound) | Pixabay Content License |  <a href="https://pixabay.com/sound-effects/nature-wind-1-44149/" >https://pixabay.com/sound-effects/nature-wind-1-44149/ </a>  |
 | Old paper background cartoon  | Sprites | Vecteezy.com | Vecteezy-License |  <a href="https://www.vecteezy.com/vector-art/48262851-old-paper-background-cartoon-for-your-design-background-event-background" > https://www.vecteezy.com/vector-art/48262851-old-paper-background-cartoon-for-your-design-background-event-background</a>  |
-| Asset | Type | Auteur | License |  <a href="" > </a>  |
+| Game Item Icon | Sprites package | imjessilux / moi  | License personnel  |  <a href="" >Source : créé moi même </a>  |
 | Asset | Type | Auteur | License |  <a href="" > </a>  |
 | Asset | Type | Auteur | License |  <a href="" > </a>  |
