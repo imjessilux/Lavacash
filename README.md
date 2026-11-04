@@ -10,9 +10,18 @@
 | Stones and buried treasure | Pack 3D | Comeback | Standard Unity Asset Store EULA |  <a href="https://assetstore.unity.com/packages/3d/environments/fantasy/stones-and-buried-treasure-95557" >https://assetstore.unity.com/packages/3d/environments/fantasy/stones-and-buried-treasure-95557 </a>  |
 | Kubbi - Cascade | Music | Kubbi  | Licence creative commons by sa  |  <a href="https://www.auboutdufil.com/index.php?id=485" > https://www.auboutdufil.com/index.php?id=485</a>  |
 | Guazu - Guazu | Music | Kubbi | Licence creative commons by sa |  <a href="https://www.auboutdufil.com/index.php?id=493#downloads" > https://www.auboutdufil.com/index.php?id=493#downloads</a>  |
-| Dark Wind Pulse | Ambiance | TanwerAman |  Pixabay Content License |  <a href="https://pixabay.com/sound-effects/horror-dark-wind-pulse-445021/" > https://pixabay.com/sound-effects/horror-dark-wind-pulse-445021/</a>  |
-| wind 1 | Ambiance | Worldmaxter (Freesound) | Pixabay Content License |  <a href="https://pixabay.com/sound-effects/nature-wind-1-44149/" >https://pixabay.com/sound-effects/nature-wind-1-44149/ </a>  |
+| Volcanic bubbles wind | Ambiance | x | Mixkit License |  <a href="https://mixkit.co/free-sound-effects/wind/?page=3" >https://mixkit.co/free-sound-effects/wind/?page=3</a>  |
+| Desertic wind | Ambiance | x | Mixkit License |  <a href="https://mixkit.co/free-sound-effects/wind/?page=3" >https://mixkit.co/free-sound-effects/wind/?page=3</a>  |
 | Old paper background cartoon  | Sprites | Vecteezy.com | Vecteezy-License |  <a href="https://www.vecteezy.com/vector-art/48262851-old-paper-background-cartoon-for-your-design-background-event-background" > https://www.vecteezy.com/vector-art/48262851-old-paper-background-cartoon-for-your-design-background-event-background</a>  |
-| Game Item Icon | Sprites package | imjessilux / moi  | License personnel  |  <a href="" >Source : créé moi même </a>  |
+| Game Item Icon | Sprites package | imjessilux / moi  | License x  |  <a href="" >Source : créé moi même </a>  |
+| Map doodles | Sprites package | imjessilux / moi  | License x  |  <a href="" >Source : créé moi même </a>  |
+| Asset | Type | Auteur | License |  <a href="" > </a>  |
+| Asset | Type | Auteur | License |  <a href="" > </a>  |
+| Asset | Type | Auteur | License |  <a href="" > </a>  |
+| Asset | Type | Auteur | License |  <a href="" > </a>  |
+| Asset | Type | Auteur | License |  <a href="" > </a>  |
+| Asset | Type | Auteur | License |  <a href="" > </a>  |
+| Asset | Type | Auteur | License |  <a href="" > </a>  |
+| Asset | Type | Auteur | License |  <a href="" > </a>  |
 | Asset | Type | Auteur | License |  <a href="" > </a>  |
 | Asset | Type | Auteur | License |  <a href="" > </a>  |
