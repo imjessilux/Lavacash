@@ -170524,7 +170524,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 490886, guid: bbe271edc5b4fd04589440e05e4a0ff8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -294.93588
+      value: -295.824
       objectReference: {fileID: 0}
     - target: {fileID: 490886, guid: bbe271edc5b4fd04589440e05e4a0ff8, type: 3}
       propertyPath: m_LocalPosition.z
@@ -322241,6 +322241,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 955835934296014421, guid: 61bc9192194144a4988f8efc62e87314, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 16777215
+      objectReference: {fileID: 0}
     - target: {fileID: 6591088301071345023, guid: 61bc9192194144a4988f8efc62e87314, type: 3}
       propertyPath: m_Name
       value: normal UI
