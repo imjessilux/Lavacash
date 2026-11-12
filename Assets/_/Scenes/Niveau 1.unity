@@ -2143,6 +2143,7 @@ GameObject:
   - component: {fileID: 30205674}
   - component: {fileID: 30205676}
   - component: {fileID: 30205675}
+  - component: {fileID: 30205677}
   m_Layer: 0
   m_Name: yellow car light
   m_TagString: Untagged
@@ -2259,6 +2260,21 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!114 &30205677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 30205673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6c605607feb57a40b93d829c350bcb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LumiereVacillante
+  intensiteMin: 3.02
+  intensiteMax: 19.3
+  vitesse: 6.55
 --- !u!4 &31086271 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 419692, guid: 21dc6678a099fda4ea40fca98c3e710b, type: 3}
@@ -182989,6 +183005,7 @@ GameObject:
   - component: {fileID: 1652488160}
   - component: {fileID: 1652488162}
   - component: {fileID: 1652488161}
+  - component: {fileID: 1652488163}
   m_Layer: 0
   m_Name: lampadaire light (3)
   m_TagString: Untagged
@@ -183105,6 +183122,21 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!114 &1652488163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652488159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6c605607feb57a40b93d829c350bcb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LumiereVacillante
+  intensiteMin: 0.6
+  intensiteMax: 34
+  vitesse: 7
 --- !u!43 &1655372083
 Mesh:
   m_ObjectHideFlags: 0
@@ -322243,7 +322275,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 955835934296014421, guid: 61bc9192194144a4988f8efc62e87314, type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 16777215
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6591088301071345023, guid: 61bc9192194144a4988f8efc62e87314, type: 3}
       propertyPath: m_Name
