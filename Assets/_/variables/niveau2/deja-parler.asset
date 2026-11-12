@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f3ad3d94c76a74ffaae15625647ada6a, type: 3}
-  m_Name: verifie argent assez
+  m_Name: deja-parler
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.BoolVariable
-  m_Id: 51cd8f22cc1045f78ab4a8d194bce519
+  m_Id: 5ee677ca9f994272a70ce2036bbada47
   Persistent: 0
   m_InitialValue: 0
