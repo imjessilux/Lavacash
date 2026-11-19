@@ -6,6 +6,8 @@ using UnityEngine.Events;
 // La touche est gérée par le CES (Watcher) :
 //   Conditions : Input (touche E)  +  Power Up (mode Disponible)
 //   Action     : Invoke Events → Activer()
+
+// recharge = icon du powerup dans son panel. Deviant couleur fill quand non-disponible
 public class PowerUpBalise : MonoBehaviour
 {
     [Header("Déblocage")]
